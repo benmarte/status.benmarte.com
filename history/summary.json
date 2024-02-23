@@ -4,14 +4,14 @@
     "url": "https://benmarte.com",
     "icon": "https://icons.duckduckgo.com/ip3/benmarte.com.ico",
     "slug": "benmarte",
-    "status": "up",
-    "uptime": "91.07%",
-    "uptimeDay": "58.56%",
-    "uptimeWeek": "64.95%",
-    "uptimeMonth": "91.07%",
-    "uptimeYear": "91.07%",
+    "status": "down",
+    "uptime": "91.12%",
+    "uptimeDay": "59.95%",
+    "uptimeWeek": "65.14%",
+    "uptimeMonth": "91.12%",
+    "uptimeYear": "91.12%",
     "time": 173,
-    "timeDay": 210,
+    "timeDay": 211,
     "timeWeek": 174,
     "timeMonth": 173,
     "timeYear": 173,
@@ -23,7 +23,7 @@
       "2024-02-19": 676,
       "2024-02-18": 611,
       "2024-02-17": 296,
-      "2024-02-16": 35
+      "2024-02-16": 16
     }
   }
 ]
